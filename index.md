@@ -23,7 +23,7 @@ ___
 ### JCDecaux - Paris, France
 Mars 2017 - présent
 #### _Projet :_
-Micro-services autour des vélos en libre service (VLS).
+2éme versnio des micro-services autour des vélos en libre service (VLS).
 
 ### Jawgmaps - Paris, France
 Avril 2016 - Mars 2017
